@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,30,Người dùng báo 30 phút; CVAT hiển thị 36 phút
+batch_review,24,45,Người dùng báo 45 phút; đã review 24 ảnh
